@@ -45,6 +45,7 @@ the LLVM of components
 - https://github.com/QingWei-Li/vue-markdown-loader md2vue
 - https://github.com/egoist/vmark md2vue
 - https://github.com/damianstasik/svg-to-vue svg2vue
+- https://github.com/deNULL/svuelte vue2svelte
 
 ### native apps
 
