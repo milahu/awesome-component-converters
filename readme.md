@@ -1,6 +1,6 @@
 # awesome-html-component-converters
 
-convert html components between different frameworks
+convert html components between frameworks
 
 ## converters
 
