@@ -63,7 +63,7 @@ convert html components between frameworks
 
 ### runtime adapters
 
-mix different frameworks on runtime
+mix two frameworks on runtime
 
 - https://github.com/BuilderIO/builder - Drag and drop Visual CMS for React, Vue, Angular, and more
 - https://podium-lib.io/ - server side composition of microfrontends, "javascript iframes", Podium is a library for building micro frontends. "Micro frontends" is a concept that advocates letting go of the monolith and instead putting all functionallity into smaller independent servers with each server being responsible for serving individual parts of the page in isolation (page fragments) and then composing them together into whole pages in separate layers. The composition is done by requesting each independent fragment over HTTP and then putting each fragment into the HTML page's markup.
@@ -73,6 +73,17 @@ mix different frameworks on runtime
 - https://github.com/jesseskinner/svelte-react - react2svelte - Use React components inside Svelte apps.
 - https://github.com/FE-PIRL/svere - svelte2react, svelte2vue
 - https://github.com/pngwn/svelte-adapter - svelte2react, svelte2vue
+
+### micro frontends
+
+mix multiple frameworks on runtime
+
+- https://github.com/topics/micro-frontends
+- https://github.com/umijs/qiankun - 14K stars
+- https://github.com/single-spa/single-spa - 12K stars - router for microfrontends
+- https://github.com/neuland/micro-frontends - 4K stars - https://micro-frontends.org/ - Techniques, strategies and recipes for building a modern web app with multiple teams using different JavaScript frameworks
+- https://github.com/billyjov/microfrontend-resources
+- https://github.com/namecheap/ilc - Isomorphic Layout Composer (ILC) - a layout service that composes a web page from fragment services. It supports client/server-based page composition. ILC assembles a page on the server-side using apps that support Server-side rendering (SSR), and after that, the page is passed on the client-side, so the client-side rendering handles all further navigation.
 
 ### i18n
 
