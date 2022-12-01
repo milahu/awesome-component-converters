@@ -35,6 +35,10 @@ convert html components between frameworks
 - https://github.com/jiangfengming/svg2svelte - svg2svelte
 - https://github.com/JackC90/svelte-to-vue - svelte2vue
 - https://github.com/QiroNT/svelte.vue - svelte2vue, bundler plugin based on https://github.com/unjs/unplugin
+- https://github.com/AlbertAZ1992/react2svelte - react2svelte
+  - https://github.com/AlbertAZ1992/react2svelte/blob/main/packages/core/src/transform.ts
+- https://github.com/SheikhSajid/jsx2svelte - react2svelte
+  - https://sheikhsajid.github.io/react2svelte-visualizer/ - online demo. no typescript. mostly broken
 
 ### solid
 
