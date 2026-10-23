@@ -13,6 +13,7 @@ convert html components between frameworks
 
 ### react
 
+- https://github.com/laithalallaf2000-ux/flow2repo - html2react, converts AI-designed HTML dashboards and websites into React + TypeScript projects with routes, shared components and typed data. Runs in the browser.
 - https://github.com/roman01la/html-to-react-components - html2react
 - https://github.com/vega/react-vega - vega2react, [vega](https://vega.github.io/) for dataviz: Vega is a declarative format for creating, saving, and sharing visualization designs
 - https://github.com/mikenikles/html-to-react - html2react
